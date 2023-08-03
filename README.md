@@ -2,7 +2,7 @@
   
  [![Discord Presence](https://lanyard.cnrad.dev/api/574284765901881356??theme=light&bg=141328&animated=true&borderRadius=30px&hideTimestamp=true)](https://discord.com/users/574284765901881356) 
   
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=RacialGamer2&count_private=true&show_icons=true&include_all_commits=true) 
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=RacialGamer&count_private=true&show_icons=true&include_all_commits=true) 
   
  <h2 align="center">👨‍💻 My Mods 👨‍💻</h2>  
   <br>  
